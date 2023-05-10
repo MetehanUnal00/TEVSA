@@ -9,7 +9,7 @@ Key Features:
 
 3) Customizable Watchlist: Create a personalized watchlist of your favorite cryptocurrencies and track their performance in real-time. Keep an eye on the assets that matter most to you.
 
-4)Price Alerts: Set custom price alerts for your favorite cryptocurrencies, and get notified when they reach your desired price levels. Never miss an investment opportunity again.
+4) Price Alerts: Set custom price alerts for your favorite cryptocurrencies, and get notified when they reach your desired price levels. Never miss an investment opportunity again.
 
 5) Portfolio Analytics: Gain insights into your portfolio's performance through various analytics, including historical data, asset allocation, and profit/loss calculations. Understand the trends and optimize your investments accordingly.
 
